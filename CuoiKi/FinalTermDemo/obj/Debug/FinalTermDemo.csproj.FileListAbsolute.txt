@@ -1,0 +1,68 @@
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.exe.config
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.exe
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.pdb
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\NetToolKit.dll
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\S7.Net.dll
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\SKCLNET.dll
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\SymbolFactoryDotNet.dll
+D:\Desktop\Cuối kì\FinalTermDemo\bin\Debug\SymbolFactoryNetEngine.dll
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.AssemblyReference.cache
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.ControlSystem.resources
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.Form1.resources
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.Properties.Resources.resources
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.GenerateResource.cache
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CoreCompileInputs.cache
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CopyComplete
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.exe
+D:\Desktop\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.exe.config
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.exe
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\FinalTermDemo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\NetToolKit.dll
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\SKCLNET.dll
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.AssemblyReference.cache
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.ControlSystem.resources
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.Form1.resources
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.Properties.Resources.resources
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.GenerateResource.cache
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CoreCompileInputs.cache
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CopyComplete
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.exe
+C:\Users\hnamu\OneDrive\Desktop\Sinh viên (19021609)\Năm 3\LTNC ứng dụng trong\Cuối kì\FinalTermDemo\obj\Debug\FinalTermDemo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\Database1.mdf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\Database1_log.ldf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\FinalTermDemo.exe.config
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\FinalTermDemo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\FinalTermDemo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\NetToolKit.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\SKCLNET.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.AssemblyReference.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.ChangePassword.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.Form1.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.Login.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.Properties.Resources.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.SignUp.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.GenerateResource.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CoreCompileInputs.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CopyComplete
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.pdb
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.AssemblyReference.cache
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.Form1.resources
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.Properties.Resources.resources
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.GenerateResource.cache
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CoreCompileInputs.cache
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.exe
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.pdb
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\FinalTermDemo.exe
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\FinalTermDemo.pdb
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\NetToolKit.dll
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\S7.Net.dll
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\SKCLNET.dll
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\SymbolFactoryDotNet.dll
+D:\Desktop\CuoiKi\FinalTermDemo\bin\Debug\SymbolFactoryNetEngine.dll
+D:\Desktop\CuoiKi\FinalTermDemo\obj\Debug\FinalTermDemo.csproj.CopyComplete

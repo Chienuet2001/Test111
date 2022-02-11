@@ -1,0 +1,129 @@
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CopyComplete
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\hhc07\source\repos\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+C:\Users\hhc07\source\repos\MidTerm_Demo\bin\Debug\S7.Net.dll
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\KIEN\Desktop\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\KIEN\Desktop\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\NetToolKit.dll
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\SKCLNET.dll
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+D:\Desktop\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CopyComplete
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Salt.resources
+D:\Desktop\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Login.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\Database1.mdf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\Database1_log.ldf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Login.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Salt.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.SignUp.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CopyComplete
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới (2)\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Login.resources
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Salt.resources
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.SignUp.resources
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CopyComplete
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\Database1.mdf
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\bin\Debug\Database1_log.ldf
+C:\Users\hnamu\OneDrive\Desktop\New folder\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.ChangePassword.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\Database1.mdf
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\Database1_log.ldf
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.ChangePassword.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Login.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Salt.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.SignUp.resources
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\KIEN\Desktop\BT\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\Database1.mdf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\Database1_log.ldf
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe.config
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\MidTerm_Demo.pdb
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\NetToolKit.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\SKCLNET.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.AssemblyReference.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.ChangePassword.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Form1.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Login.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Properties.Resources.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.Salt.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.SignUp.resources
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.GenerateResource.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CoreCompileInputs.cache
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.csproj.CopyComplete
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.exe
+C:\Users\hnamu\OneDrive\Desktop\Thư mục mới\GKi\MidTerm_Demo\obj\Debug\MidTerm_Demo.pdb
